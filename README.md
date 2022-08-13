@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @oimran135 and my name is Osama Imran
-- 👀 I’m interested in AI and Data engineering and APIs
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on automation projects at industrial level.
-- 📫 You can reach me via email at osamaimran135@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/osama-imran-62a0241ba/)
+
+Trust me, this is not a den of a guy with dark circles, lack of sleep, and a couple of empty cans of monster drink on the side. You can visit my LinkedIn for my full story. :)
 
 <!---
 oimran135/oimran135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
